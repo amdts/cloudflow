@@ -1,2 +1,2 @@
-ThisBuild / cloudflowDockerRegistry := Some("hub.docker.com")
-ThisBuild / cloudflowDockerRepository := Some("amdh24/samplecloudflow")
+ThisBuild / cloudflowDockerRegistry := Some("amcr2.azurecr.io")
+ThisBuild / cloudflowDockerRepository := Some("amcr2")
